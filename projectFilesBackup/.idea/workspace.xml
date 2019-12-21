@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5031cbfb-31b8-42a8-af5a-ec608beffc08" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_S_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="81" column="73" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="73" />
+              <folding>
+                <element signature="e#1568#1636#1" expanded="true" />
+                <element signature="e#2181#2231#1" expanded="true" />
+                <element signature="e#3145#3201#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/exception/ErrorMessageFactory.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="e#622#682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="54" column="90" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="90" />
+              <folding>
+                <element signature="e#54#991#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainContract.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>suspe</find>
+      <find>&quot;blockchain.preference&quot;</find>
+      <find>AppDatabase_Impl</find>
+      <find>kapt &quot;android.arch.persistence.room:compiler:$room_version&quot;</find>
+      <find>room_version</find>
+      <find>koin_version</find>
+      <find>when</find>
+      <find>supportt</find>
+      <find>404</find>
+      <find>Unsupported field</find>
+      <find>Unsupported</find>
+      <find>insertOrUpdate</find>
+      <find>enum class</find>
+      <find>data_not_existed</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/exception/ChartValuesFoundException.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/MainFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/State.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/repository/GetAllRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/dto/BcState.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/cashedmodel/BlockChainStateRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/BlockChain.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/SystemConfig.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/InfrastructureException.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/exception/EmptyPageException.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/Paginator.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainStateRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/SafeOkHttpClientFactory.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/Configuration.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestChart.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/MainPresenter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/helpers/Helper.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/RecyclerViewAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/RecyclerViewListAdapterModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/DetachableRecyclerViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/DetachableRecyclerViewHolder.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/RecyclerViewHolder.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/UnInstaller.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/RecyclerViewListAdapterModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/di/modules.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/Pagination.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/Filtering.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainRestService.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ChartProxyRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/dao/ChartDao.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetRepositoryUnitTest.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetAllRepositoryUnitTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ChartDiskRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/RequestAllUnitTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/Value.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/Chart.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/ChartUnitTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainContract.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/exception/ErrorMessageFactory.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="300" />
+    <option name="y" value="160" />
+    <option name="width" value="1800" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="n26" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="n26" type="462c0819:PsiDirectoryNode" />
+              <item name="yeh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="n26" type="462c0819:PsiDirectoryNode" />
+              <item name="yeh" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchainsample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="n26" type="462c0819:PsiDirectoryNode" />
+              <item name="yeh" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchainsample" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BlockChainSample" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="n26" type="462c0819:PsiDirectoryNode" />
+              <item name="yeh" type="462c0819:PsiDirectoryNode" />
+              <item name="blockchainsample" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="htc-htc_desire_628_dual_sim-HQ69DBT84230" />
+    <property name="DEBUGGABLE_PROCESS" value="com.n26.yeh.blockchainsample" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="HQ69DBT84230" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-11-12T17:30:23.419Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.n26.yeh.blockchainsample.domain.service" />
+      <recent name="com.n26.yeh.blockchainsample.infrastructure" />
+      <recent name="com.n26.yeh.blockchainsample.ui.util.wedgit" />
+      <recent name="com.n26.yeh.blockchainsample.infrastructure.cashedmodel" />
+      <recent name="com.n26.yeh.blockchainsample.infrastructure.dto" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.n26.yeh.blockchainsample.infrastructure" />
+      <recent name="com.n26.yeh.blockchainsample.ui.util.wedgit.recycleview" />
+      <recent name="com.n26.yeh.blockchainsample.ui.util" />
+      <recent name="com.n26.yeh.blockchainsample.domain.exception" />
+      <recent name="com.n26.yeh.blockchainsample.domain" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.n26.yeh.blockchainsample.ui.blockchaindetail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\ui\mainviewscreen" />
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\ui\util" />
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\ui\di" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\ui\util\wedgit\recycleview" />
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\ui" />
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\res\values" />
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\domain" />
+      <recent name="C:\Users\yeh\Documents\KOIN-Materials\BlockChainSample\app\src\main\java\com\n26\yeh\blockchainsample\ui\app" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.n26.yeh.blockchainsample.ui.util.wedgit.recycleview" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.ChartUnitTest">
+    <configuration name="ChartUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.yeh.blockchainsample.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26.yeh.blockchainsample.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.yeh.blockchainsample.domain.ChartUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestAllUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.yeh.blockchainsample.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26.yeh.blockchainsample.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.yeh.blockchainsample.domain.RequestAllUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllRepositoryUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.yeh.blockchainsample.infrastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26.yeh.blockchainsample.infrastructure" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.yeh.blockchainsample.infrastructure.GetAllRepositoryUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.yeh.blockchainsample.infrastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26.yeh.blockchainsample.infrastructure" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.yeh.blockchainsample.infrastructure.GetRepository" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ChartUnitTest" />
+        <item itemvalue="Android JUnit.RequestAllUnitTest" />
+        <item itemvalue="JUnit.GetRepository" />
+        <item itemvalue="JUnit.GetAllRepositoryUnitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5031cbfb-31b8-42a8-af5a-ec608beffc08" name="Default Changelist" comment="" />
+      <created>1573475758789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573475758789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RequestAllUnitTest - 2019.11.13 at 23h 47m 10s.xml">
+      <configuration name="RequestAllUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RequestAllUnitTest - 2019.11.13 at 23h 48m 21s.xml">
+      <configuration name="RequestAllUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RequestAllUnitTest - 2019.11.13 at 23h 49m 16s.xml">
+      <configuration name="RequestAllUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="RequestAllUnitTest - 2019.11.13 at 23h 50m 21s.xml">
+      <configuration name="RequestAllUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="ChartUnitTest - 2019.11.14 at 00h 22m 29s.xml">
+      <configuration name="ChartUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="ChartUnitTest - 2019.11.14 at 00h 24m 53s.xml">
+      <configuration name="ChartUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="ChartUnitTest - 2019.11.14 at 00h 25m 14s.xml">
+      <configuration name="ChartUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="ChartUnitTest - 2019.11.14 at 00h 25m 33s.xml">
+      <configuration name="ChartUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="ChartUnitTest - 2019.11.14 at 00h 27m 18s.xml">
+      <configuration name="ChartUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="ChartUnitTest - 2019.11.14 at 00h 33m 31s.xml">
+      <configuration name="ChartUnitTest" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.3" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Structure" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.5487465" />
+      <window_info anchor="bottom" id="Run" order="1" weight="0.53203344" />
+      <window_info anchor="bottom" id="Android Profiler" order="2" />
+      <window_info anchor="bottom" id="CheckStyle" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Logcat" order="5" weight="0.8662953" />
+      <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32729805" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.3286908" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3286908" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4707521" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Flutter Inspector" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Flutter Outline" order="4" />
+      <window_info anchor="right" id="Json Parser" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="CodeStream" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="9" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/cashedmodel/CashedChart.kt</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BcPaginated.kt</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestChart.kt</url>
+          <line>36</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/Filtering.kt</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/Filtering.kt</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/Filtering.kt</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetAllRepositoryUnitTest.kt</url>
+          <line>98</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetAllRepositoryUnitTest.kt</url>
+          <line>306</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetAllRepositoryUnitTest.kt</url>
+          <line>241</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetRepositoryUnitTest.kt</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetRepositoryUnitTest.kt</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetRepositoryUnitTest.kt</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/service/RequestAllUnitTest.kt</url>
+          <line>173</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/service/RequestAllUnitTest.kt</url>
+          <line>178</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/repository/WriteRepository.kt</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ChartDiskRepository.kt</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/service/RequestAllUnitTest.kt</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/service/RequestAllUnitTest.kt</url>
+          <line>184</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/service/RequestAllUnitTest.kt</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-field">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/dto/BcChart.kt</url>
+          <line>8</line>
+          <properties myFieldName="status" myClassName="com.n26.yeh.blockchainsample.infrastructure.dto.BcChart" />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>requestAll.getChartAndState(pagination)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>chartDao.insert(entity.toCashedChart())</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>configurationRepository.insertOrUpdate(
+                Configuration(
+                    blockChain.charts[0].description,
+                    blockChain.charts.size,
+                    null
+                )
+            )</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>testObserver.assertResult(testParameter.data)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>mockBlockChainStateRepository.get(0)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>testParameter.getExistingEntity()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>chartDiskRepository.getAll(pagination)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>paginationMap[pagination]!![0]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>paginationMap[pagination]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/exception/EmptyPageException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/exception/ChartValuesFoundException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/exception_strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/helpers/Helper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#49#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/RecyclerViewAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="114" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="114" />
+          <folding>
+            <element signature="e#47#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/DetachableRecyclerViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="26" selection-start-line="27" selection-start-column="40" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/repository/DeleteRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/DetachableRecyclerViewHolder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="78" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/RecyclerViewHolder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#65#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/recycleview/UnInstaller.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/util/wedgit/RecyclerViewListAdapterModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#53#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestChart.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/Pagination.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/AbstractProxyGetRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ChartProxyRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="55" lean-forward="true" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/di/modules.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="22" column="71" selection-start-line="21" selection-start-column="8" selection-end-line="22" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ChartMapper.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="51" selection-start-column="8" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/n26/yeh/blockchainsample/infrastructure/dao/ChartDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/n26/yeh/blockchainsample/infrastructure/dao/ChartDao_Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/Paginator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/dto/BcChart.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainRestService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="e#53#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/dto/BcState.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#57#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.8/cc52b0e12d62f0a0fa6b266ebe66a4183798a1c2/rxjava-2.1.8-sources.jar!/io/reactivex/observers/TestObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+          <folding>
+            <element signature="e#2433#2434#0" expanded="true" />
+            <element signature="e#2477#2478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetRepositoryUnitTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#53#728#0" expanded="true" />
+            <element signature="e#733#765#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/State.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/BlockChain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainStateRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="67" column="58" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/Configuration.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/Filtering.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#54#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/BlockChainChartRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/dao/ChartDao.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/infrastructure/GetAllRepositoryUnitTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="299" column="36" lean-forward="true" selection-start-line="289" selection-start-column="6" selection-end-line="299" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/repository/WriteRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ConfigurationRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/infrastructure/ChartDiskRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/service/RequestAllUnitTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="214" column="90" selection-start-line="214" selection-start-column="90" selection-end-line="214" selection-end-column="90" />
+          <folding>
+            <element signature="e#45#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/Value.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/model/Chart.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/n26/yeh/blockchainsample/domain/ChartUnitTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="90" column="60" lean-forward="true" selection-start-line="90" selection-start-column="60" selection-end-line="90" selection-end-column="60" />
+          <folding>
+            <element signature="e#45#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/domain/services/RequestAll.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="54" column="90" selection-start-line="54" selection-start-column="69" selection-end-line="54" selection-end-column="90" />
+          <folding>
+            <element signature="e#54#991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainContract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainPresenter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/exception/ErrorMessageFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="e#622#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/n26/yeh/blockchainsample/ui/mainviewscreen/MainFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="81" column="73" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="73" />
+          <folding>
+            <element signature="e#1568#1636#1" expanded="true" />
+            <element signature="e#2181#2231#1" expanded="true" />
+            <element signature="e#3145#3201#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

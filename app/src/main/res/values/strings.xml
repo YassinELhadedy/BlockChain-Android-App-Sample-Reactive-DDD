@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Block Chain</string>
+    <string name="hello_blank_fragment">Hello Fragment</string>
+    //Exception messages
+    <string name="exception_message_generic">Chain System Is Down</string>
+    <string name="exception_message_no_connection">Make Sure Of Internet Connection</string>
+    <string name="data_not_existed">Empty Page</string>
+    <string name="values_not_existed">Empty Chain Transaction</string>
+    <string name="exception_message_user_not_found">You Session is expired</string>
+    <string name="unauthorized_person">U Do Not Have Acess</string>
+    //ProgressBar Message
+    <string name="loading_start">Chain State Is Coming Now</string>
+    //SnackBar Message
+    <string name="block_chain_existed">Now U Have Block Chain Data</string>
+    <string name="block_chain_not_existed">Unfortunately No Data Available</string>
+    //description
+    <string name="date_icon">Date Icon</string>
+    <string name="period_icon">Period Icon</string>
+    <string name="status_icon">Status Icon</string>
+    <string name="description_overview">Description</string>
+    <string name="values_detail">Transactions</string>
+    <string name="no_values_existed">No Transactions Avialable</string>
+    <string name="state_detail">State</string>
+    <string name="block_chain_poster">Block Chain Poster</string>
+    //dumy Key
+    <string name="x_value">X = </string>
+    <string name="y_value">Y = </string>
+    <string name="start">Start</string>
+</resources>

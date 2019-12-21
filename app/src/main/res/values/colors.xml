@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#ff000000</color>
+    <color name="colorTransBar">#30000000</color>
+    <color name="dark_black">#222222</color>
+    <color name="dark_yellow">#fedd00</color>
+    <color name="dark_white">#ffffff</color>
+    <color name="colorPrimary">#FEDD00</color>
+    <color name="colorPrimaryDark">#383838</color>
+    <color name="colorAccent">#fff</color>
+</resources>
